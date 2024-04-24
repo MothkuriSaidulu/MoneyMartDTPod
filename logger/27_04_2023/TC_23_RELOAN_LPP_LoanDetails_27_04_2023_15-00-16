@@ -1,0 +1,49 @@
+###################################################
+Executing Scenario : Online_existing_Reloan_IL_Approved_LPP_Cancel|TC_23_Reloan_LPP
+###################################################
+***********************************************************
+Start Time : 27_04_2023_15-00-16
+TC_23_RELOAN_LPP
+TC_23_RELOAN_LPP_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : When user click on signup
+Test Finished : When user click on signup
+=================Customer Name====================
+osrcm
+=================Customer Name====================
+=================Customer Email====================
+robinosrcm@yopmail.com
+=================Customer Email====================
+787267
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the email threshold
+Test Finished : And verify the email threshold
+Test Started : When Enter all details and create account
+Test Finished : When Enter all details and create account
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : And Verify the address threshold and update address
+Test Finished : And Verify the address threshold and update address
+Test Started : And Run the TU query
+Test Finished : And Run the TU query
+Test Started : And customer chooses IL loan
+Test Finished : And customer chooses IL loan
+Test Started : And User provides basic information
+Test Finished : And User provides basic information
+Test Started : And select the flink consent
+Test Finished : And select the flink consent
+Test Started : And Provides income information
+Test Finished : And Provides income information
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : And verify the funding screen and chosses the funding type
+Test Finished : And verify the funding screen and chosses the funding type
+Test Started : And add the bank details
+Test Finished : And add the bank details
+***********************************************************
+End Time : 27_04_2023_15-08-55
+***********************************************************
+Tests finished! Number of test Steps : 16

@@ -1,0 +1,27 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 20_04_2023_18-57-01
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup customer
+Test Finished : Given user click on signup customer
+=================Customer Name====================
+nvyml
+=================Customer Name====================
+=================Customer Email====================
+robinnvyml@yopmail.com
+=================Customer Email====================
+946176
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+***********************************************************
+End Time : 20_04_2023_18-58-22
+***********************************************************
+Tests finished! Number of test Steps : 5

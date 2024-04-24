@@ -1,0 +1,41 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 24_04_2023_14-16-26
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+===Loan status===
+6
+===Loan status===
+Test Started : And update the loanstatus to closed
+Test Finished : And update the loanstatus to closed
+Test Started : And Backdate loan and get make a payment button
+Test Finished : And Backdate loan and get make a payment button
+Test Started : And update loan contract
+Test Finished : And update loan contract
+Test Started : And customer chooses SPL loan
+Test Finished : And customer chooses SPL loan
+Test Started : And verify the existing customer details for SPL
+Test Finished : And verify the existing customer details for SPL
+Test Started : And select the flink consent
+Test Finished : And select the flink consent
+Test Started : And Verify the  income information
+Test Finished : And Verify the  income information
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : And verify the funding screen and chosses the funding type
+Test Finished : And verify the funding screen and chosses the funding type
+Test Started : And verify the bank details
+Test Finished : And verify the bank details
+Test Started : And upload document
+Test Finished : And upload document
+***********************************************************
+End Time : 24_04_2023_14-20-47
+***********************************************************
+Tests finished! Number of test Steps : 14

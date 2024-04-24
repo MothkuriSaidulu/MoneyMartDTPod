@@ -1,0 +1,27 @@
+###################################################
+Executing Scenario : Online_existing_Reloan_IL_Approved_LPP_Cancel|TC_23_Reloan_LPP
+###################################################
+***********************************************************
+Start Time : 27_04_2023_13-44-32
+TC_23_RELOAN_LPP
+TC_23_RELOAN_LPP_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : When user click on signup
+Test Finished : When user click on signup
+=================Customer Name====================
+kdqse
+=================Customer Name====================
+=================Customer Email====================
+robinkdqse@yopmail.com
+=================Customer Email====================
+590076
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the email threshold
+Test Finished : And verify the email threshold
+***********************************************************
+End Time : 27_04_2023_13-46-07
+***********************************************************
+Tests finished! Number of test Steps : 5

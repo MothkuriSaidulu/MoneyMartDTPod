@@ -1,0 +1,26 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_01_ILLoanApproved_Review
+###################################################
+***********************************************************
+Start Time : 28_04_2023_13-44-06
+TC_01_ILLOANAPPROVED_REVIEW
+TC_01_ILLOANAPPROVED_REVIEW_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+Test Started : And click on Finalize and e-Sign Loan Documents
+Test Finished : And click on Finalize and e-Sign Loan Documents
+Test Started : And Verify the loan approved amount
+Test Finished : And Verify the loan approved amount
+Test Started : And chosses the either LPP yes or no
+Test Finished : And chosses the either LPP yes or no
+Test Started : And continue in bank details
+Test Finished : And continue in bank details
+Test Started : And Verify the loan documents
+Test Finished : And Verify the loan documents
+***********************************************************
+End Time : 28_04_2023_13-48-12
+***********************************************************
+Tests finished! Number of test Steps : 8

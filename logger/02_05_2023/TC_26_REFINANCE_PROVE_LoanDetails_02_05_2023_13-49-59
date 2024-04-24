@@ -1,0 +1,22 @@
+###################################################
+Executing Scenario : Online_IL_Refinance_loan_flink_opt_in|TC_26_Refinance_prove
+###################################################
+***********************************************************
+Start Time : 02_05_2023_13-49-59
+TC_26_REFINANCE_PROVE
+TC_26_REFINANCE_PROVE_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+Test Started : And update loan contract
+Test Finished : And update loan contract
+Test Started : And customer chooses IL Jsy card
+Test Finished : And customer chooses IL Jsy card
+Test Started : And select the without flinks option
+Test Finished : And select the without flinks option
+***********************************************************
+End Time : 02_05_2023_13-53-05
+***********************************************************
+Tests finished! Number of test Steps : 6

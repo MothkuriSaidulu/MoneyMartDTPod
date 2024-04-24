@@ -1,0 +1,71 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_01_ILLoanApproved_Review
+###################################################
+***********************************************************
+Start Time : 11_12_2023_17-48-44
+TC_01_ILLOANAPPROVED_REVIEW
+TC_01_ILLOANAPPROVED_REVIEW_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup
+Test Finished : Given user click on signup
+=================Customer Email====================
+robinyxjta@yopmail.com
+=================Customer Email====================
+Test Started : And Pre-requisite email and dob
+Test Finished : And Pre-requisite email and dob
+Test Started : And verify the email threshold
+Test Finished : And verify the email threshold
+Test Started : And update device velocity for threshold
+Test Finished : And update device velocity for threshold
+Test Started : And verify the bank velocity
+Test Finished : And verify the bank velocity
+Test Started : When Enter all details and create account
+Test Finished : When Enter all details and create account
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : And Verify the address threshold and update address
+Test Finished : And Verify the address threshold and update address
+Test Started : And Run the TU query
+Test Finished : And Run the TU query
+Test Started : And customer chooses IL loan
+Test Finished : And customer chooses IL loan
+Test Started : And User provides basic information
+Test Finished : And User provides basic information
+Test Started : And select flink opt in
+Test Finished : And select flink opt in
+Test Started : And check the flinks income details
+Test Finished : And check the flinks income details
+Test Started : And update neuro id for automation approval
+Test Finished : And update neuro id for automation approval
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : Then Enter otp and validate
+Test Finished : Then Enter otp and validate
+Test Started : And verify the funding screen and chosses the funding type
+Test Finished : And verify the funding screen and chosses the funding type
+Test Started : And Flinks bank details
+Test Finished : And Flinks bank details
+Test Started : And upload document
+Test Finished : And upload document
+Test Started : And verify the loan status and update loan status in DB
+Test Finished : And verify the loan status and update loan status in DB
+Test Started : And click on Finalize and e-Sign Loan Documents
+Test Finished : And click on Finalize and e-Sign Loan Documents
+Test Started : And Verify the loan approved amount
+Test Finished : And Verify the loan approved amount
+Test Started : And chosses the either LPP yes or no
+Test Finished : And chosses the either LPP yes or no
+Test Started : And continue in bank details
+Test Finished : And continue in bank details
+Test Started : And Verify the loan documents
+Test Finished : And Verify the loan documents
+Test Started : And verify the DB validatioin
+Test Finished : And verify the DB validatioin
+Test Started : And verify the dasboard and rescind loan
+Test Finished : And verify the dasboard and rescind loan
+***********************************************************
+End Time : 11_12_2023_18-01-45
+***********************************************************
+Tests finished! Number of test Steps : 29

@@ -1,0 +1,22 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 24_04_2023_15-13-25
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+Test Started : And update the loanstatus to closed
+Test Finished : And update the loanstatus to closed
+Test Started : And Backdate loan and get make a payment button
+Test Finished : And Backdate loan and get make a payment button
+Test Started : And customer chooses SPL loan
+Test Finished : And customer chooses SPL loan
+***********************************************************
+End Time : 24_04_2023_15-16-37
+***********************************************************
+Tests finished! Number of test Steps : 6

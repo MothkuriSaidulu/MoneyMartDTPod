@@ -1,0 +1,31 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 20_04_2023_18-59-31
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup customer
+Test Finished : Given user click on signup customer
+=================Customer Name====================
+btnmg
+=================Customer Name====================
+=================Customer Email====================
+robinbtnmg@yopmail.com
+=================Customer Email====================
+888644
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : And Verify the address threshold and update address
+Test Finished : And Verify the address threshold and update address
+Test Started : When Create customer
+Test Finished : When Create customer
+Test Started : And Run the SPL TU query
+Test Finished : And Run the SPL TU query
+Test Started : And customer chooses SPL loan
+Test Finished : And customer chooses SPL loan

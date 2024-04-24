@@ -1,0 +1,24 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_01_ILLoanApproved_Review
+###################################################
+***********************************************************
+Start Time : 11_12_2023_19-07-26
+TC_01_ILLOANAPPROVED_REVIEW
+TC_01_ILLOANAPPROVED_REVIEW_DS1
+***********************************************************
+Test Started : Given Pre-requisite data load for customer
+Test Finished : Given Pre-requisite data load for customer
+Test Started : And sign the customer
+Test Finished : And sign the customer
+Test Started : And click on Finalize and e-Sign Loan Documents
+Test Finished : And click on Finalize and e-Sign Loan Documents
+Test Started : And Verify the loan approved amount
+Test Finished : And Verify the loan approved amount
+Test Started : And chosses the either LPP yes or no
+Test Finished : And chosses the either LPP yes or no
+Test Started : And continue in bank details
+Test Finished : And continue in bank details
+Test Started : And Verify the loan documents
+Test Finished : And Verify the loan documents
+Test Started : And verify the DB validatioin
+Test Finished : And verify the DB validatioin

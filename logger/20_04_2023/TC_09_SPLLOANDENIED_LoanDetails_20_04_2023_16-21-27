@@ -1,0 +1,47 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 20_04_2023_16-21-27
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup customer
+Test Finished : Given user click on signup customer
+=================Customer Name====================
+tofkg
+=================Customer Name====================
+=================Customer Email====================
+robintofkg@yopmail.com
+=================Customer Email====================
+767031
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : And Verify the address threshold and update address
+Test Finished : And Verify the address threshold and update address
+Test Started : When Create customer
+Test Finished : When Create customer
+Test Started : And Run the TU query
+Test Finished : And Run the TU query
+Test Started : And Run the SPL TU query
+Test Finished : And Run the SPL TU query
+Test Started : And customer chooses SPL loan
+Test Finished : And customer chooses SPL loan
+Test Started : And User provides basic information for spl
+Test Finished : And User provides basic information for spl
+Test Started : And select the flink consent
+Test Finished : And select the flink consent
+Test Started : And Provides income information
+Test Finished : And Provides income information
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : And loan decision screen
+Test Finished : And loan decision screen
+***********************************************************
+End Time : 20_04_2023_16-25-38
+***********************************************************
+Tests finished! Number of test Steps : 15

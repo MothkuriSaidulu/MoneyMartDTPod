@@ -1,0 +1,14 @@
+###################################################
+Executing Scenario : Online_Existing Customer_SPL_Credit Declined|TC_09_SPLLoandenied
+###################################################
+***********************************************************
+Start Time : 17_01_2024_10-03-43
+TC_09_SPLLOANDENIED
+TC_09_SPLLOANDENIED_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+***********************************************************
+End Time : 17_01_2024_10-03-52
+***********************************************************
+Tests finished! Number of test Steps : 2

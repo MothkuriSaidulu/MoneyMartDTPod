@@ -1,0 +1,14 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_02_IL_autofund
+###################################################
+***********************************************************
+Start Time : 11_12_2023_11-20-35
+TC_02_IL_AUTOFUND
+TC_02_IL_AUTOFUND_DS1
+***********************************************************
+Test Started : Given user click on signup
+Test Finished : Given user click on signup
+***********************************************************
+End Time : 11_12_2023_11-20-36
+***********************************************************
+Tests finished! Number of test Steps : 2

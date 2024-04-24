@@ -1,0 +1,16 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_01_ILLoanApproved_Review
+###################################################
+***********************************************************
+Start Time : 28_04_2023_13-40-24
+TC_01_ILLOANAPPROVED_REVIEW
+TC_01_ILLOANAPPROVED_REVIEW_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+***********************************************************
+End Time : 28_04_2023_13-41-55
+***********************************************************
+Tests finished! Number of test Steps : 3

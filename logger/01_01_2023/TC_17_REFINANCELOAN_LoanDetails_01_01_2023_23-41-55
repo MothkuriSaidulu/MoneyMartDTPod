@@ -1,0 +1,35 @@
+###################################################
+Executing Scenario : Online_IL_Refinance_loan_with_flinks_out|TC_17_Refinanceloan
+###################################################
+***********************************************************
+Start Time : 01_01_2023_23-41-55
+TC_17_REFINANCELOAN
+TC_17_REFINANCELOAN_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+=================Customer Name====================
+jyyfq
+=================Customer Name====================
+=================Customer Email====================
+robinjyyfq@yopmail.com
+=================Customer Email====================
+044672
+Test Started : And Pre-requisite data generation for customer
+Test Finished : And Pre-requisite data generation for customer
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : Given user click on signup customer
+Test Finished : Given user click on signup customer
+Test Started : When Create customer
+Test Finished : When Create customer
+Test Started : And Run the TU query
+Test Finished : And Run the TU query
+Test Started : And customer chooses IL loan
+Test Finished : And customer chooses IL loan
+Test Started : And User provides basic information
+Test Finished : And User provides basic information
+***********************************************************
+End Time : 01_01_2023_23-44-00
+***********************************************************
+Tests finished! Number of test Steps : 9

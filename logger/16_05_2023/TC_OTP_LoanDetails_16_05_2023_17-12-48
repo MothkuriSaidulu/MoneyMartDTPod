@@ -1,0 +1,16 @@
+###################################################
+Executing Scenario : Online_Get_OTP|TC_OTP
+###################################################
+***********************************************************
+Start Time : 16_05_2023_17-12-48
+TC_OTP
+TC_OTP_DS1
+***********************************************************
+Test Started : Given lunch otp url
+Test Finished : Given lunch otp url
+Test Started : Then Get otp
+Test Finished : Then Get otp
+***********************************************************
+End Time : 16_05_2023_17-13-37
+***********************************************************
+Tests finished! Number of test Steps: 3

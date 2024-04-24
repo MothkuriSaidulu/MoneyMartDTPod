@@ -1,0 +1,16 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_10_ILLoandenied
+###################################################
+***********************************************************
+Start Time : 24_04_2023_17-11-19
+TC_10_ILLOANDENIED
+TC_10_ILLOANDENIED_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup
+Test Finished : Given user click on signup
+***********************************************************
+End Time : 24_04_2023_17-11-50
+***********************************************************
+Tests finished! Number of test Steps : 3

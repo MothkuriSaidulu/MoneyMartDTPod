@@ -1,0 +1,28 @@
+###################################################
+Executing Scenario : Online_existing_Reloan_IL_Approved_LPP_Cancel|TC_23_Reloan_LPP
+###################################################
+***********************************************************
+Start Time : 27_04_2023_16-01-10
+TC_23_RELOAN_LPP
+TC_23_RELOAN_LPP_DS1
+***********************************************************
+Test Started : Given User opens the chrome and launch online application
+Test Finished : Given User opens the chrome and launch online application
+Test Started : When User login online Application
+Test Finished : When User login online Application
+Test Started : And update loan contract
+Test Finished : And update loan contract
+Test Started : And customer chooses IL Jsy card
+Test Finished : And customer chooses IL Jsy card
+Test Started : And select the without flinks option
+Test Finished : And select the without flinks option
+Test Started : And Verify the reloan income information
+Test Finished : And Verify the reloan income information
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : And upload document
+Test Finished : And upload document
+***********************************************************
+End Time : 27_04_2023_16-03-33
+***********************************************************
+Tests finished! Number of test Steps : 9

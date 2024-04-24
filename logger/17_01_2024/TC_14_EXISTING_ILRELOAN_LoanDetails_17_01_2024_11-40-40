@@ -1,0 +1,44 @@
+###################################################
+Executing Scenario : Online_existing_Reloan_IL_Approved|TC_14_Existing_ILReloan
+###################################################
+***********************************************************
+Start Time : 17_01_2024_11-40-40
+TC_14_EXISTING_ILRELOAN
+TC_14_EXISTING_ILRELOAN_DS1
+***********************************************************
+Test Started : Given Pre-requisite data load for customer
+Test Finished : Given Pre-requisite data load for customer
+Test Started : And sign the customer
+Test Finished : And sign the customer
+Test Started : And user should logout from online application
+Test Finished : And user should logout from online application
+Test Started : And Backdate loan 180days
+Test Finished : And Backdate loan 180days
+Test Started : And update loan contract
+Test Finished : And update loan contract
+Test Started : And customer chooses IL Jsy card
+Test Finished : And customer chooses IL Jsy card
+Test Started : And select the without flinks option
+Test Finished : And select the without flinks option
+Test Started : And Verify the reloan income information
+Test Finished : And Verify the reloan income information
+Test Started : And signed the picra and submit application
+Test Finished : And signed the picra and submit application
+Test Started : Then Enter otp and validate
+Test Finished : Then Enter otp and validate
+Test Started : And upload document
+Test Finished : And upload document
+Test Started : And verify the loan status and update loan status in DB
+Test Finished : And verify the loan status and update loan status in DB
+Test Started : And click on Finalize and e-Sign Loan Documents
+Test Finished : And click on Finalize and e-Sign Loan Documents
+Test Started : And Verify the loan approved amount
+Test Finished : And Verify the loan approved amount
+Test Started : And chosses the either LPP yes or no
+Test Finished : And chosses the either LPP yes or no
+Test Started : And Verify the loan documents
+Test Finished : And Verify the loan documents
+***********************************************************
+End Time : 17_01_2024_11-46-04
+***********************************************************
+Tests finished! Number of test Steps : 17

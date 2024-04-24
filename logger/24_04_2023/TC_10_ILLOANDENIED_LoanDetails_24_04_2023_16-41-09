@@ -1,0 +1,22 @@
+###################################################
+Executing Scenario : Online_New Customer_IL_Approved|TC_10_ILLoandenied
+###################################################
+***********************************************************
+Start Time : 24_04_2023_16-41-09
+TC_10_ILLOANDENIED
+TC_10_ILLOANDENIED_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : Given user click on signup
+Test Finished : Given user click on signup
+Test Started : And verify the email threshold
+Test Finished : And verify the email threshold
+Test Started : When Enter all details and create account
+Test Finished : When Enter all details and create account
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+Test Started : And Verify the address threshold and update address
+Test Finished : And Verify the address threshold and update address
+Test Started : And Run the TU query
+Test Finished : And Run the TU query

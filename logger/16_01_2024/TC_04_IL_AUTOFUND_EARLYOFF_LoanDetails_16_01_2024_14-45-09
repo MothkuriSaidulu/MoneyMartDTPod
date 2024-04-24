@@ -1,0 +1,23 @@
+###################################################
+Executing Scenario : Online_IL_autofund_Repay_Earlyoff|TC_04_IL_autofund_earlyoff
+###################################################
+***********************************************************
+Start Time : 16_01_2024_14-45-09
+TC_04_IL_AUTOFUND_EARLYOFF
+TC_04_IL_AUTOFUND_EARLYOFF_DS1
+***********************************************************
+Test Started : When user click on signup
+Test Finished : When user click on signup
+=================Customer Email====================
+robineswrs@yopmail.com
+=================Customer Email====================
+Test Started : And Pre-requisite email and dob
+Test Finished : And Pre-requisite email and dob
+Test Started : And verify the email threshold
+Test Finished : And verify the email threshold
+Test Started : And update device velocity for threshold
+Test Finished : And update device velocity for threshold
+Test Started : And verify the bank velocity
+Test Finished : And verify the bank velocity
+Test Started : When Enter all details and create account
+Test Finished : When Enter all details and create account

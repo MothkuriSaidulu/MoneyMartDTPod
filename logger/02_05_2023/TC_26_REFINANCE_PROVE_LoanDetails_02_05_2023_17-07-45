@@ -1,0 +1,25 @@
+###################################################
+Executing Scenario : Online_IL_Refinance_loan_flink_opt_in|TC_26_Refinance_prove
+###################################################
+***********************************************************
+Start Time : 02_05_2023_17-07-45
+TC_26_REFINANCE_PROVE
+TC_26_REFINANCE_PROVE_DS1
+***********************************************************
+Test Started : Given Genareted sin
+Test Finished : Given Genareted sin
+Test Started : When user click on signup
+Test Finished : When user click on signup
+=================Customer Email====================
+robinvjkpz@yopmail.com
+=================Customer Email====================
+Test Started : And Pre-requisite email and dob
+Test Finished : And Pre-requisite email and dob
+Test Started : When Enter all details and create account
+Test Finished : When Enter all details and create account
+Test Started : And verify the phonenumber threshold
+Test Finished : And verify the phonenumber threshold
+***********************************************************
+End Time : 02_05_2023_17-09-25
+***********************************************************
+Tests finished! Number of test Steps : 6
